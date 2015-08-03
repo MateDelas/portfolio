@@ -1,0 +1,4 @@
+http://kenwheeler.github.io/slick/
+https://github.com/kenwheeler/slick/tree/master/slick
+http://livetools.uiparade.com/form-builder.html
+https://css-tricks.com/design-considerations-text-images/
